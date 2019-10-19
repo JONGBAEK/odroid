@@ -1,4 +1,4 @@
-# odroid
+# Odroid (OdroidN2)
 
 ## Reference
 - https://www.htpcguides.com/install-plex-media-server-on-odroid-lubuntu-and-debian/
