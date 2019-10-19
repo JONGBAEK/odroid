@@ -1,4 +1,0 @@
-# Edit this file for local setup changes
-_ssl _ssl.c \
-	-DUSE_SSL -lssl -lcrypto
-
