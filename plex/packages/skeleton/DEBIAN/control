@@ -1,0 +1,8 @@
+Package: plexmediaserver
+Version: 1.15.4.993-bb4a2cb6c
+Architecture: arm64
+Maintainer: Jan Friedrich (uglymagoo) <jft@dev2day.de> 
+Section: video 
+Priority: extra 
+Homepage: http://www.plexapp.com 
+Description: Plex Media Server for Linux Stream media everywhere(tm)
