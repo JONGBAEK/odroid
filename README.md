@@ -11,5 +11,6 @@
 
 ## Hint
 - Need sudo password when install the plex.
-- If you don't want to install the plex, remove below line in the script.
+- If you don't want to install the plex, remove command line in the script.
+
   #sudo dpkg -i plexmediaserver*
