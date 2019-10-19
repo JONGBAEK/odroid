@@ -2,4 +2,4 @@
 
 ## How to install the Plex for Odroid N2
 
-https://github.com/JONGBAEK/odroid/plex
+https://github.com/JONGBAEK/odroid/tree/master/plex
