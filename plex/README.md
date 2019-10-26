@@ -1,6 +1,7 @@
 # Odroid (OdroidN2)
 
 ## Reference
+- https://wiki.odroid.com/odroid-xu4/software/ubuntu_nas/03_nas_services?s[]=plexmediaserver
 - https://www.htpcguides.com/install-plex-media-server-on-odroid-lubuntu-and-debian/
 
 ## Usage
