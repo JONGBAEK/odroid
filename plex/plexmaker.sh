@@ -1,6 +1,8 @@
-echo "=============================================================================================="
-echo "Reference : https://www.htpcguides.com/install-plex-media-server-on-odroid-lubuntu-and-debian/"
-echo "=============================================================================================="
+echo "=========================================================================================="
+echo "References : "
+echo "https://wiki.odroid.com/odroid-xu4/software/ubuntu_nas/03_nas_services?s[]=plexmediaserver"
+echo "https://www.htpcguides.com/install-plex-media-server-on-odroid-lubuntu-and-debian/"
+echo "=========================================================================================="
 
 if [ $# -eq 0 ] ; then
     echo "Error : Download version required"
