@@ -39,6 +39,9 @@ mv skeleton/DEBIAN/control.tmp skeleton/DEBIAN/control
 echo "making install pakage ..."
 fakeroot dpkg-deb --build skeleton ./
 sudo dpkg -i plexmediaserver*
+if [ ! -d "../deb" ]; then
+	mkdir ../deb
+fi
 mv plexmediaserver_* ../deb/
 cd ..
 echo "removing work directory ..."
